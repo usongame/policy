@@ -5,13 +5,13 @@
  * License    http://www.fashop.cn
  * link       http://www.fashop.cn
  * Created by FaShop.
- * User: hanwenbo
+ * User: usongame
  * Date: 2019-02-20
  * Time: 13:25
  *
  */
 
-namespace hanwenbo\policy\RequestBean;
+namespace usongame\policy\RequestBean;
 
 
 class Policy

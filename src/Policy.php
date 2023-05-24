@@ -11,10 +11,10 @@
  *
  */
 
-namespace hanwenbo\policy;
+namespace usongame\policy;
 
-use hanwenbo\policy\RequestBean\Statement;
-use hanwenbo\policy\RequestBean\Policy as PolicyRequest;
+use usongame\policy\RequestBean\Statement;
+use usongame\policy\RequestBean\Policy as PolicyRequest;
 
 class Policy
 {

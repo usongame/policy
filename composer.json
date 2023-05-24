@@ -3,13 +3,13 @@
     "version": "2.0.0",
     "authors": [
         {
-            "name": "韩文博",
-            "email": "9476400@qq.com"
+            "name": "usongame",
+            "email": "3239857092@qq.com"
         }
     ],
     "autoload": {
         "psr-4": {
-            "hanwenbo\\policy\\": "src/"
+            "usongame\\policy\\": "src/"
         }
     }
 }
