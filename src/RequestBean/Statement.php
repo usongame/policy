@@ -25,7 +25,7 @@ class Statement
 	 */
 	public function getEffect() : string
 	{
-		return $this->Statement->Effect;
+		return $this->Statement[0]['Effect'];
 	}
 
 
@@ -34,7 +34,7 @@ class Statement
 	 */
 	public function getAction() : array
 	{
-		return $this->Statement->Action;
+		return $this->Statement[0]['Action'];
 	}
 
 }
